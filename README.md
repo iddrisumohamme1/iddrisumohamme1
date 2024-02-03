@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iddrisumohamme1
 - 👀 I’m interested in new things  
-- 🌱 I’m currently learning HTML, Css
+- 🌱 I’m currently learning HTML, Css,Python 
 - 💞️ I’m looking to collaborate on our project
 - 📫 How to reach me anytime 
 - 😄 Pronouns: ...
